@@ -1,0 +1,12 @@
+bank:
+  name:
+    Tinkoff
+
+card:
+  cardN:
+    1234567812345678
+  cardC:
+    321
+
+server:
+  port: 8080
