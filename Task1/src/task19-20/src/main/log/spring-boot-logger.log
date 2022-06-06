@@ -1,0 +1,25 @@
+293  [main] INFO  c.e.newtask15.Newtask15Application – Starting Newtask15Application using Java 17.0.2 on DESKTOP-5E1NSF5 with PID 4076 (C:\Users\Erupb\IdeaProjects\task18\target\classes started by Erupb in C:\Users\Erupb\IdeaProjects\task18)
+294  [main] INFO  c.e.newtask15.Newtask15Application – No active profile set, falling back to 1 default profile: "default"
+495  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+519  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Finished Spring Data repository scanning in 20 ms. Found 2 JPA repository interfaces.
+800  [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat initialized with port(s): 8084 (http)
+804  [main] INFO  o.a.coyote.http11.Http11NioProtocol – Initializing ProtocolHandler ["http-nio-8084"]
+804  [main] INFO  o.a.catalina.core.StandardService – Starting service [Tomcat]
+805  [main] INFO  o.a.catalina.core.StandardEngine – Starting Servlet engine: [Apache Tomcat/9.0.60]
+854  [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring embedded WebApplicationContext
+855  [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext – Root WebApplicationContext: initialization completed in 534 ms
+921  [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Starting...
+995  [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Start completed.
+1016 [main] INFO  o.h.jpa.internal.util.LogHelper – HHH000204: Processing PersistenceUnitInfo [name: default]
+1036 [main] INFO  org.hibernate.Version – HHH000412: Hibernate ORM core version 5.6.7.Final
+1098 [main] INFO  o.h.annotations.common.Version – HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+1147 [main] INFO  org.hibernate.dialect.Dialect – HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+1401 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator – HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+1405 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Initialized JPA EntityManagerFactory for persistence unit 'default'
+1565 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration – spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+1696 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Starting ProtocolHandler ["http-nio-8084"]
+1706 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat started on port(s): 8084 (http) with context path ''
+1711 [main] INFO  c.e.newtask15.Newtask15Application – Started Newtask15Application in 1.625 seconds (JVM running for 1.953)
+55285 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Closing JPA EntityManagerFactory for persistence unit 'default'
+55286 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Shutdown initiated...
+55288 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Shutdown completed.

@@ -1,0 +1,432 @@
+401  [main] INFO  c.e.newtask15.Newtask15Application – Starting Newtask15Application using Java 17.0.2 on DESKTOP-5E1NSF5 with PID 22368 (C:\Users\Erupb\IdeaProjects\task22\task21\target\classes started by Erupb in C:\Users\Erupb\IdeaProjects\task22\task21)
+405  [main] INFO  c.e.newtask15.Newtask15Application – No active profile set, falling back to 1 default profile: "default"
+655  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+687  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Finished Spring Data repository scanning in 25 ms. Found 2 JPA repository interfaces.
+1083 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat initialized with port(s): 8084 (http)
+1088 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Initializing ProtocolHandler ["http-nio-8084"]
+1089 [main] INFO  o.a.catalina.core.StandardService – Starting service [Tomcat]
+1089 [main] INFO  o.a.catalina.core.StandardEngine – Starting Servlet engine: [Apache Tomcat/9.0.60]
+1154 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring embedded WebApplicationContext
+1154 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext – Root WebApplicationContext: initialization completed in 721 ms
+1233 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Starting...
+1364 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Start completed.
+1388 [main] INFO  o.h.jpa.internal.util.LogHelper – HHH000204: Processing PersistenceUnitInfo [name: default]
+1422 [main] INFO  org.hibernate.Version – HHH000412: Hibernate ORM core version 5.6.7.Final
+1513 [main] INFO  o.h.annotations.common.Version – HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+1582 [main] INFO  org.hibernate.dialect.Dialect – HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+1897 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator – HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+1902 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Initialized JPA EntityManagerFactory for persistence unit 'default'
+2101 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration – spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2253 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Starting ProtocolHandler ["http-nio-8084"]
+2268 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat started on port(s): 8084 (http) with context path ''
+2274 [main] INFO  c.e.newtask15.Newtask15Application – Started Newtask15Application in 2.133 seconds (JVM running for 2.647)
+86779 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Closing JPA EntityManagerFactory for persistence unit 'default'
+86780 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Shutdown initiated...
+86783 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Shutdown completed.
+328  [main] INFO  c.e.newtask15.Newtask15Application – Starting Newtask15Application using Java 17.0.2 on DESKTOP-5E1NSF5 with PID 2384 (C:\Users\Erupb\IdeaProjects\task22\task21\target\classes started by Erupb in C:\Users\Erupb\IdeaProjects\task22\task21)
+330  [main] INFO  c.e.newtask15.Newtask15Application – No active profile set, falling back to 1 default profile: "default"
+535  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+561  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Finished Spring Data repository scanning in 21 ms. Found 2 JPA repository interfaces.
+884  [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat initialized with port(s): 8084 (http)
+888  [main] INFO  o.a.coyote.http11.Http11NioProtocol – Initializing ProtocolHandler ["http-nio-8084"]
+888  [main] INFO  o.a.catalina.core.StandardService – Starting service [Tomcat]
+888  [main] INFO  o.a.catalina.core.StandardEngine – Starting Servlet engine: [Apache Tomcat/9.0.60]
+942  [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring embedded WebApplicationContext
+942  [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext – Root WebApplicationContext: initialization completed in 587 ms
+1010 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Starting...
+1082 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Start completed.
+1103 [main] INFO  o.h.jpa.internal.util.LogHelper – HHH000204: Processing PersistenceUnitInfo [name: default]
+1124 [main] INFO  org.hibernate.Version – HHH000412: Hibernate ORM core version 5.6.7.Final
+1183 [main] INFO  o.h.annotations.common.Version – HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+1232 [main] INFO  org.hibernate.dialect.Dialect – HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+1482 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator – HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+1486 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Initialized JPA EntityManagerFactory for persistence unit 'default'
+1673 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration – spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+1807 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Starting ProtocolHandler ["http-nio-8084"]
+1818 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat started on port(s): 8084 (http) with context path ''
+1823 [main] INFO  c.e.newtask15.Newtask15Application – Started Newtask15Application in 1.711 seconds (JVM running for 2.088)
+28191 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Closing JPA EntityManagerFactory for persistence unit 'default'
+28192 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Shutdown initiated...
+28195 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Shutdown completed.
+284  [main] INFO  c.e.newtask15.Newtask15Application – Starting Newtask15Application using Java 17.0.2 on DESKTOP-5E1NSF5 with PID 15028 (C:\Users\Erupb\IdeaProjects\task22\task21\target\classes started by Erupb in C:\Users\Erupb\IdeaProjects\task22\task21)
+285  [main] INFO  c.e.newtask15.Newtask15Application – No active profile set, falling back to 1 default profile: "default"
+499  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+523  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Finished Spring Data repository scanning in 20 ms. Found 2 JPA repository interfaces.
+834  [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat initialized with port(s): 8084 (http)
+838  [main] INFO  o.a.coyote.http11.Http11NioProtocol – Initializing ProtocolHandler ["http-nio-8084"]
+839  [main] INFO  o.a.catalina.core.StandardService – Starting service [Tomcat]
+839  [main] INFO  o.a.catalina.core.StandardEngine – Starting Servlet engine: [Apache Tomcat/9.0.60]
+898  [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring embedded WebApplicationContext
+898  [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext – Root WebApplicationContext: initialization completed in 587 ms
+967  [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Starting...
+1039 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Start completed.
+1060 [main] INFO  o.h.jpa.internal.util.LogHelper – HHH000204: Processing PersistenceUnitInfo [name: default]
+1081 [main] INFO  org.hibernate.Version – HHH000412: Hibernate ORM core version 5.6.7.Final
+1141 [main] INFO  o.h.annotations.common.Version – HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+1190 [main] INFO  org.hibernate.dialect.Dialect – HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+1440 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator – HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+1445 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Initialized JPA EntityManagerFactory for persistence unit 'default'
+1630 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration – spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+1764 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Starting ProtocolHandler ["http-nio-8084"]
+1774 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat started on port(s): 8084 (http) with context path ''
+1779 [main] INFO  c.e.newtask15.Newtask15Application – Started Newtask15Application in 1.7 seconds (JVM running for 2.008)
+81975 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Closing JPA EntityManagerFactory for persistence unit 'default'
+81976 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Shutdown initiated...
+81979 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Shutdown completed.
+309  [main] INFO  c.e.newtask15.Newtask15Application – Starting Newtask15Application using Java 17.0.2 on DESKTOP-5E1NSF5 with PID 23760 (C:\Users\Erupb\IdeaProjects\task22\task21\target\classes started by Erupb in C:\Users\Erupb\IdeaProjects\task22\task21)
+311  [main] INFO  c.e.newtask15.Newtask15Application – No active profile set, falling back to 1 default profile: "default"
+523  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+548  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Finished Spring Data repository scanning in 20 ms. Found 2 JPA repository interfaces.
+867  [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat initialized with port(s): 8084 (http)
+871  [main] INFO  o.a.coyote.http11.Http11NioProtocol – Initializing ProtocolHandler ["http-nio-8084"]
+871  [main] INFO  o.a.catalina.core.StandardService – Starting service [Tomcat]
+871  [main] INFO  o.a.catalina.core.StandardEngine – Starting Servlet engine: [Apache Tomcat/9.0.60]
+927  [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring embedded WebApplicationContext
+928  [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext – Root WebApplicationContext: initialization completed in 591 ms
+998  [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Starting...
+1072 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Start completed.
+1092 [main] INFO  o.h.jpa.internal.util.LogHelper – HHH000204: Processing PersistenceUnitInfo [name: default]
+1113 [main] INFO  org.hibernate.Version – HHH000412: Hibernate ORM core version 5.6.7.Final
+1171 [main] INFO  o.h.annotations.common.Version – HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+1221 [main] INFO  org.hibernate.dialect.Dialect – HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+1467 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator – HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+1472 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Initialized JPA EntityManagerFactory for persistence unit 'default'
+1662 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration – spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+1797 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Starting ProtocolHandler ["http-nio-8084"]
+1807 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat started on port(s): 8084 (http) with context path ''
+1812 [main] INFO  c.e.newtask15.Newtask15Application – Started Newtask15Application in 1.711 seconds (JVM running for 2.048)
+23488 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Closing JPA EntityManagerFactory for persistence unit 'default'
+23489 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Shutdown initiated...
+23491 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Shutdown completed.
+363  [main] INFO  c.e.newtask15.Newtask15Application – Starting Newtask15Application using Java 17.0.2 on DESKTOP-5E1NSF5 with PID 24568 (C:\Users\Erupb\IdeaProjects\task22\task21\target\classes started by Erupb in C:\Users\Erupb\IdeaProjects\task22\task21)
+365  [main] INFO  c.e.newtask15.Newtask15Application – No active profile set, falling back to 1 default profile: "default"
+636  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+662  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Finished Spring Data repository scanning in 21 ms. Found 2 JPA repository interfaces.
+976  [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat initialized with port(s): 8084 (http)
+980  [main] INFO  o.a.coyote.http11.Http11NioProtocol – Initializing ProtocolHandler ["http-nio-8084"]
+980  [main] INFO  o.a.catalina.core.StandardService – Starting service [Tomcat]
+980  [main] INFO  o.a.catalina.core.StandardEngine – Starting Servlet engine: [Apache Tomcat/9.0.60]
+1042 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring embedded WebApplicationContext
+1042 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext – Root WebApplicationContext: initialization completed in 644 ms
+1109 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Starting...
+1181 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Start completed.
+1201 [main] INFO  o.h.jpa.internal.util.LogHelper – HHH000204: Processing PersistenceUnitInfo [name: default]
+1222 [main] INFO  org.hibernate.Version – HHH000412: Hibernate ORM core version 5.6.7.Final
+1280 [main] INFO  o.h.annotations.common.Version – HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+1328 [main] INFO  org.hibernate.dialect.Dialect – HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+1575 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator – HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+1580 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Initialized JPA EntityManagerFactory for persistence unit 'default'
+1774 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration – spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+1909 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Starting ProtocolHandler ["http-nio-8084"]
+1920 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat started on port(s): 8084 (http) with context path ''
+1926 [main] INFO  c.e.newtask15.Newtask15Application – Started Newtask15Application in 1.841 seconds (JVM running for 2.171)
+3524 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Closing JPA EntityManagerFactory for persistence unit 'default'
+3525 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Shutdown initiated...
+3527 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Shutdown completed.
+311  [main] INFO  c.e.newtask15.Newtask15Application – Starting Newtask15Application using Java 17.0.2 on DESKTOP-5E1NSF5 with PID 22784 (C:\Users\Erupb\IdeaProjects\task22\task21\target\classes started by Erupb in C:\Users\Erupb\IdeaProjects\task22\task21)
+313  [main] INFO  c.e.newtask15.Newtask15Application – No active profile set, falling back to 1 default profile: "default"
+533  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+561  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Finished Spring Data repository scanning in 23 ms. Found 2 JPA repository interfaces.
+916  [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat initialized with port(s): 8084 (http)
+921  [main] INFO  o.a.coyote.http11.Http11NioProtocol – Initializing ProtocolHandler ["http-nio-8084"]
+921  [main] INFO  o.a.catalina.core.StandardService – Starting service [Tomcat]
+921  [main] INFO  o.a.catalina.core.StandardEngine – Starting Servlet engine: [Apache Tomcat/9.0.60]
+983  [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring embedded WebApplicationContext
+983  [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext – Root WebApplicationContext: initialization completed in 647 ms
+1049 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Starting...
+1131 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Start completed.
+1153 [main] INFO  o.h.jpa.internal.util.LogHelper – HHH000204: Processing PersistenceUnitInfo [name: default]
+1176 [main] INFO  org.hibernate.Version – HHH000412: Hibernate ORM core version 5.6.7.Final
+1243 [main] INFO  o.h.annotations.common.Version – HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+1299 [main] INFO  org.hibernate.dialect.Dialect – HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+1576 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator – HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+1581 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Initialized JPA EntityManagerFactory for persistence unit 'default'
+1822 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration – spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+1973 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Starting ProtocolHandler ["http-nio-8084"]
+1984 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat started on port(s): 8084 (http) with context path ''
+1989 [main] INFO  c.e.newtask15.Newtask15Application – Started Newtask15Application in 1.895 seconds (JVM running for 2.589)
+73544 [http-nio-8084-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring DispatcherServlet 'dispatcherServlet'
+73544 [http-nio-8084-exec-1] INFO  o.s.web.servlet.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+73545 [http-nio-8084-exec-1] INFO  o.s.web.servlet.DispatcherServlet – Completed initialization in 1 ms
+73567 [http-nio-8084-exec-1] INFO  c.e.newtask15.services.CardService – Read all cards
+73661 [http-nio-8084-exec-1] INFO  com.example.newtask15.AOPClass – CardService.readAll() completed in 98 ms
+186089 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Closing JPA EntityManagerFactory for persistence unit 'default'
+186090 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Shutdown initiated...
+186092 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Shutdown completed.
+333  [main] INFO  c.e.newtask15.Newtask15Application – Starting Newtask15Application using Java 17.0.2 on DESKTOP-5E1NSF5 with PID 14792 (C:\Users\Erupb\IdeaProjects\task22\task21\target\classes started by Erupb in C:\Users\Erupb\IdeaProjects\task22\task21)
+335  [main] INFO  c.e.newtask15.Newtask15Application – No active profile set, falling back to 1 default profile: "default"
+539  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+564  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Finished Spring Data repository scanning in 20 ms. Found 2 JPA repository interfaces.
+873  [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat initialized with port(s): 8084 (http)
+877  [main] INFO  o.a.coyote.http11.Http11NioProtocol – Initializing ProtocolHandler ["http-nio-8084"]
+877  [main] INFO  o.a.catalina.core.StandardService – Starting service [Tomcat]
+878  [main] INFO  o.a.catalina.core.StandardEngine – Starting Servlet engine: [Apache Tomcat/9.0.60]
+941  [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring embedded WebApplicationContext
+941  [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext – Root WebApplicationContext: initialization completed in 582 ms
+1000 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Starting...
+1073 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Start completed.
+1093 [main] INFO  o.h.jpa.internal.util.LogHelper – HHH000204: Processing PersistenceUnitInfo [name: default]
+1115 [main] INFO  org.hibernate.Version – HHH000412: Hibernate ORM core version 5.6.7.Final
+1177 [main] INFO  o.h.annotations.common.Version – HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+1225 [main] INFO  org.hibernate.dialect.Dialect – HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+1470 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator – HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+1475 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Initialized JPA EntityManagerFactory for persistence unit 'default'
+1659 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration – spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+1790 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Starting ProtocolHandler ["http-nio-8084"]
+1804 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat started on port(s): 8084 (http) with context path ''
+1809 [main] INFO  c.e.newtask15.Newtask15Application – Started Newtask15Application in 1.731 seconds (JVM running for 2.048)
+176514 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Closing JPA EntityManagerFactory for persistence unit 'default'
+176515 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Shutdown initiated...
+176517 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Shutdown completed.
+315  [main] INFO  c.e.newtask15.Newtask15Application – Starting Newtask15Application using Java 17.0.2 on DESKTOP-5E1NSF5 with PID 10604 (C:\Users\Erupb\IdeaProjects\task22\task21\target\classes started by Erupb in C:\Users\Erupb\IdeaProjects\task22\task21)
+316  [main] INFO  c.e.newtask15.Newtask15Application – No active profile set, falling back to 1 default profile: "default"
+518  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+542  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Finished Spring Data repository scanning in 20 ms. Found 2 JPA repository interfaces.
+850  [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat initialized with port(s): 8084 (http)
+854  [main] INFO  o.a.coyote.http11.Http11NioProtocol – Initializing ProtocolHandler ["http-nio-8084"]
+854  [main] INFO  o.a.catalina.core.StandardService – Starting service [Tomcat]
+855  [main] INFO  o.a.catalina.core.StandardEngine – Starting Servlet engine: [Apache Tomcat/9.0.60]
+911  [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring embedded WebApplicationContext
+911  [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext – Root WebApplicationContext: initialization completed in 571 ms
+975  [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Starting...
+1050 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Start completed.
+1074 [main] INFO  o.h.jpa.internal.util.LogHelper – HHH000204: Processing PersistenceUnitInfo [name: default]
+1095 [main] INFO  org.hibernate.Version – HHH000412: Hibernate ORM core version 5.6.7.Final
+1153 [main] INFO  o.h.annotations.common.Version – HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+1200 [main] INFO  org.hibernate.dialect.Dialect – HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+1445 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator – HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+1450 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Initialized JPA EntityManagerFactory for persistence unit 'default'
+1636 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration – spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+1773 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Starting ProtocolHandler ["http-nio-8084"]
+1784 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat started on port(s): 8084 (http) with context path ''
+1789 [main] INFO  c.e.newtask15.Newtask15Application – Started Newtask15Application in 1.683 seconds (JVM running for 2.041)
+203998 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Closing JPA EntityManagerFactory for persistence unit 'default'
+203999 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Shutdown initiated...
+204002 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Shutdown completed.
+285  [main] INFO  c.e.newtask15.Newtask15Application – Starting Newtask15Application using Java 17.0.2 on DESKTOP-5E1NSF5 with PID 23932 (C:\Users\Erupb\IdeaProjects\task22\task21\target\classes started by Erupb in C:\Users\Erupb\IdeaProjects\task22\task21)
+287  [main] INFO  c.e.newtask15.Newtask15Application – No active profile set, falling back to 1 default profile: "default"
+490  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+514  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Finished Spring Data repository scanning in 20 ms. Found 2 JPA repository interfaces.
+821  [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat initialized with port(s): 8084 (http)
+824  [main] INFO  o.a.coyote.http11.Http11NioProtocol – Initializing ProtocolHandler ["http-nio-8084"]
+825  [main] INFO  o.a.catalina.core.StandardService – Starting service [Tomcat]
+825  [main] INFO  o.a.catalina.core.StandardEngine – Starting Servlet engine: [Apache Tomcat/9.0.60]
+878  [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring embedded WebApplicationContext
+878  [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext – Root WebApplicationContext: initialization completed in 567 ms
+945  [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Starting...
+1018 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Start completed.
+1039 [main] INFO  o.h.jpa.internal.util.LogHelper – HHH000204: Processing PersistenceUnitInfo [name: default]
+1061 [main] INFO  org.hibernate.Version – HHH000412: Hibernate ORM core version 5.6.7.Final
+1119 [main] INFO  o.h.annotations.common.Version – HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+1168 [main] INFO  org.hibernate.dialect.Dialect – HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+1416 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator – HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+1421 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Initialized JPA EntityManagerFactory for persistence unit 'default'
+1607 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration – spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+1739 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Starting ProtocolHandler ["http-nio-8084"]
+1748 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat started on port(s): 8084 (http) with context path ''
+1753 [main] INFO  c.e.newtask15.Newtask15Application – Started Newtask15Application in 1.674 seconds (JVM running for 1.998)
+16459 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Closing JPA EntityManagerFactory for persistence unit 'default'
+16460 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Shutdown initiated...
+16462 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Shutdown completed.
+324  [main] INFO  c.e.newtask15.Newtask15Application – Starting Newtask15Application using Java 17.0.2 on DESKTOP-5E1NSF5 with PID 23132 (C:\Users\Erupb\IdeaProjects\task22\task21\target\classes started by Erupb in C:\Users\Erupb\IdeaProjects\task22\task21)
+325  [main] INFO  c.e.newtask15.Newtask15Application – No active profile set, falling back to 1 default profile: "default"
+555  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+584  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Finished Spring Data repository scanning in 23 ms. Found 2 JPA repository interfaces.
+932  [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat initialized with port(s): 8084 (http)
+941  [main] INFO  o.a.coyote.http11.Http11NioProtocol – Initializing ProtocolHandler ["http-nio-8084"]
+941  [main] INFO  o.a.catalina.core.StandardService – Starting service [Tomcat]
+941  [main] INFO  o.a.catalina.core.StandardEngine – Starting Servlet engine: [Apache Tomcat/9.0.60]
+1003 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring embedded WebApplicationContext
+1003 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext – Root WebApplicationContext: initialization completed in 654 ms
+1069 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Starting...
+1150 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Start completed.
+1172 [main] INFO  o.h.jpa.internal.util.LogHelper – HHH000204: Processing PersistenceUnitInfo [name: default]
+1195 [main] INFO  org.hibernate.Version – HHH000412: Hibernate ORM core version 5.6.7.Final
+1263 [main] INFO  o.h.annotations.common.Version – HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+1319 [main] INFO  org.hibernate.dialect.Dialect – HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+1593 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator – HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+1599 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Initialized JPA EntityManagerFactory for persistence unit 'default'
+1817 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration – spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+1972 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Starting ProtocolHandler ["http-nio-8084"]
+1983 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat started on port(s): 8084 (http) with context path ''
+1988 [main] INFO  c.e.newtask15.Newtask15Application – Started Newtask15Application in 1.89 seconds (JVM running for 2.341)
+16470 [http-nio-8084-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring DispatcherServlet 'dispatcherServlet'
+16470 [http-nio-8084-exec-1] INFO  o.s.web.servlet.DispatcherServlet – Initializing Servlet 'dispatcherServlet'
+16471 [http-nio-8084-exec-1] INFO  o.s.web.servlet.DispatcherServlet – Completed initialization in 1 ms
+16492 [http-nio-8084-exec-1] INFO  c.e.newtask15.services.CardService – Read all cards
+16558 [http-nio-8084-exec-1] INFO  com.example.newtask15.AOPClass – CardService.readAll() completed in 70 ms
+33010 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Closing JPA EntityManagerFactory for persistence unit 'default'
+33012 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Shutdown initiated...
+33014 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Shutdown completed.
+317  [main] INFO  c.e.newtask15.Newtask15Application – Starting Newtask15Application using Java 17.0.2 on DESKTOP-5E1NSF5 with PID 23848 (C:\Users\Erupb\IdeaProjects\task22\task21\target\classes started by Erupb in C:\Users\Erupb\IdeaProjects\task22\task21)
+319  [main] INFO  c.e.newtask15.Newtask15Application – No active profile set, falling back to 1 default profile: "default"
+541  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+570  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Finished Spring Data repository scanning in 23 ms. Found 2 JPA repository interfaces.
+916  [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat initialized with port(s): 8084 (http)
+925  [main] INFO  o.a.coyote.http11.Http11NioProtocol – Initializing ProtocolHandler ["http-nio-8084"]
+925  [main] INFO  o.a.catalina.core.StandardService – Starting service [Tomcat]
+925  [main] INFO  o.a.catalina.core.StandardEngine – Starting Servlet engine: [Apache Tomcat/9.0.60]
+987  [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring embedded WebApplicationContext
+987  [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext – Root WebApplicationContext: initialization completed in 645 ms
+1052 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Starting...
+1133 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Start completed.
+1155 [main] INFO  o.h.jpa.internal.util.LogHelper – HHH000204: Processing PersistenceUnitInfo [name: default]
+1178 [main] INFO  org.hibernate.Version – HHH000412: Hibernate ORM core version 5.6.7.Final
+1245 [main] INFO  o.h.annotations.common.Version – HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+1301 [main] INFO  org.hibernate.dialect.Dialect – HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+1581 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator – HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+1586 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Initialized JPA EntityManagerFactory for persistence unit 'default'
+1797 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration – spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+1957 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Starting ProtocolHandler ["http-nio-8084"]
+1969 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat started on port(s): 8084 (http) with context path ''
+1974 [main] INFO  c.e.newtask15.Newtask15Application – Started Newtask15Application in 1.885 seconds (JVM running for 2.306)
+84898 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Closing JPA EntityManagerFactory for persistence unit 'default'
+84899 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Shutdown initiated...
+84901 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Shutdown completed.
+271  [main] INFO  c.e.newtask15.Newtask15Application – Starting Newtask15Application using Java 17.0.2 on DESKTOP-5E1NSF5 with PID 2200 (C:\Users\Erupb\IdeaProjects\task22\task21\target\classes started by Erupb in C:\Users\Erupb\IdeaProjects\task22\task21)
+272  [main] INFO  c.e.newtask15.Newtask15Application – No active profile set, falling back to 1 default profile: "default"
+486  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+515  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Finished Spring Data repository scanning in 24 ms. Found 2 JPA repository interfaces.
+836  [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat initialized with port(s): 8084 (http)
+840  [main] INFO  o.a.coyote.http11.Http11NioProtocol – Initializing ProtocolHandler ["http-nio-8084"]
+840  [main] INFO  o.a.catalina.core.StandardService – Starting service [Tomcat]
+840  [main] INFO  o.a.catalina.core.StandardEngine – Starting Servlet engine: [Apache Tomcat/9.0.60]
+898  [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring embedded WebApplicationContext
+898  [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext – Root WebApplicationContext: initialization completed in 600 ms
+964  [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Starting...
+1037 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Start completed.
+1057 [main] INFO  o.h.jpa.internal.util.LogHelper – HHH000204: Processing PersistenceUnitInfo [name: default]
+1077 [main] INFO  org.hibernate.Version – HHH000412: Hibernate ORM core version 5.6.7.Final
+1136 [main] INFO  o.h.annotations.common.Version – HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+1183 [main] INFO  org.hibernate.dialect.Dialect – HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+1430 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator – HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+1435 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Initialized JPA EntityManagerFactory for persistence unit 'default'
+1641 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration – spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+1786 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Starting ProtocolHandler ["http-nio-8084"]
+1795 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat started on port(s): 8084 (http) with context path ''
+1800 [main] INFO  c.e.newtask15.Newtask15Application – Started Newtask15Application in 1.726 seconds (JVM running for 2.018)
+1817 [scheduling-1] INFO  c.e.newtask15.services.CardService – Read all cards
+1870 [scheduling-1] INFO  com.example.newtask15.AOPClass – CardService.readAll() completed in 54 ms
+1878 [scheduling-1] INFO  c.e.n.services.ManufactureService – Read all manufactures
+1883 [scheduling-1] INFO  com.example.newtask15.AOPClass – ManufactureService.readAll() completed in 7 ms
+1885 [scheduling-1] INFO  com.example.newtask15.AOPClass – ScheduleService.backupFromDatabase() completed in 85 ms
+3808 [scheduling-1] INFO  c.e.newtask15.services.CardService – Read all cards
+3809 [scheduling-1] INFO  com.example.newtask15.AOPClass – CardService.readAll() completed in 2 ms
+3809 [scheduling-1] INFO  c.e.n.services.ManufactureService – Read all manufactures
+3810 [scheduling-1] INFO  com.example.newtask15.AOPClass – ManufactureService.readAll() completed in 1 ms
+3811 [scheduling-1] INFO  com.example.newtask15.AOPClass – ScheduleService.backupFromDatabase() completed in 4 ms
+5817 [scheduling-1] INFO  c.e.newtask15.services.CardService – Read all cards
+5818 [scheduling-1] INFO  com.example.newtask15.AOPClass – CardService.readAll() completed in 1 ms
+5818 [scheduling-1] INFO  c.e.n.services.ManufactureService – Read all manufactures
+5819 [scheduling-1] INFO  com.example.newtask15.AOPClass – ManufactureService.readAll() completed in 1 ms
+5820 [scheduling-1] INFO  com.example.newtask15.AOPClass – ScheduleService.backupFromDatabase() completed in 6 ms
+7808 [scheduling-1] INFO  c.e.newtask15.services.CardService – Read all cards
+7809 [scheduling-1] INFO  com.example.newtask15.AOPClass – CardService.readAll() completed in 1 ms
+7809 [scheduling-1] INFO  c.e.n.services.ManufactureService – Read all manufactures
+7810 [scheduling-1] INFO  com.example.newtask15.AOPClass – ManufactureService.readAll() completed in 1 ms
+7811 [scheduling-1] INFO  com.example.newtask15.AOPClass – ScheduleService.backupFromDatabase() completed in 4 ms
+9803 [scheduling-1] INFO  c.e.newtask15.services.CardService – Read all cards
+9804 [scheduling-1] INFO  com.example.newtask15.AOPClass – CardService.readAll() completed in 1 ms
+9805 [scheduling-1] INFO  c.e.n.services.ManufactureService – Read all manufactures
+9805 [scheduling-1] INFO  com.example.newtask15.AOPClass – ManufactureService.readAll() completed in 0 ms
+9806 [scheduling-1] INFO  com.example.newtask15.AOPClass – ScheduleService.backupFromDatabase() completed in 4 ms
+11802 [scheduling-1] INFO  c.e.newtask15.services.CardService – Read all cards
+11804 [scheduling-1] INFO  com.example.newtask15.AOPClass – CardService.readAll() completed in 2 ms
+11805 [scheduling-1] INFO  c.e.n.services.ManufactureService – Read all manufactures
+11805 [scheduling-1] INFO  com.example.newtask15.AOPClass – ManufactureService.readAll() completed in 0 ms
+11806 [scheduling-1] INFO  com.example.newtask15.AOPClass – ScheduleService.backupFromDatabase() completed in 5 ms
+13805 [scheduling-1] INFO  c.e.newtask15.services.CardService – Read all cards
+13806 [scheduling-1] INFO  com.example.newtask15.AOPClass – CardService.readAll() completed in 1 ms
+13807 [scheduling-1] INFO  c.e.n.services.ManufactureService – Read all manufactures
+13807 [scheduling-1] INFO  com.example.newtask15.AOPClass – ManufactureService.readAll() completed in 0 ms
+13808 [scheduling-1] INFO  com.example.newtask15.AOPClass – ScheduleService.backupFromDatabase() completed in 4 ms
+15815 [scheduling-1] INFO  c.e.newtask15.services.CardService – Read all cards
+15816 [scheduling-1] INFO  com.example.newtask15.AOPClass – CardService.readAll() completed in 1 ms
+15817 [scheduling-1] INFO  c.e.n.services.ManufactureService – Read all manufactures
+15818 [scheduling-1] INFO  com.example.newtask15.AOPClass – ManufactureService.readAll() completed in 1 ms
+15819 [scheduling-1] INFO  com.example.newtask15.AOPClass – ScheduleService.backupFromDatabase() completed in 5 ms
+17801 [scheduling-1] INFO  c.e.newtask15.services.CardService – Read all cards
+17802 [scheduling-1] INFO  com.example.newtask15.AOPClass – CardService.readAll() completed in 1 ms
+17803 [scheduling-1] INFO  c.e.n.services.ManufactureService – Read all manufactures
+17804 [scheduling-1] INFO  com.example.newtask15.AOPClass – ManufactureService.readAll() completed in 1 ms
+17805 [scheduling-1] INFO  com.example.newtask15.AOPClass – ScheduleService.backupFromDatabase() completed in 5 ms
+19813 [scheduling-1] INFO  c.e.newtask15.services.CardService – Read all cards
+19814 [scheduling-1] INFO  com.example.newtask15.AOPClass – CardService.readAll() completed in 1 ms
+19815 [scheduling-1] INFO  c.e.n.services.ManufactureService – Read all manufactures
+19815 [scheduling-1] INFO  com.example.newtask15.AOPClass – ManufactureService.readAll() completed in 0 ms
+19816 [scheduling-1] INFO  com.example.newtask15.AOPClass – ScheduleService.backupFromDatabase() completed in 4 ms
+21813 [scheduling-1] INFO  c.e.newtask15.services.CardService – Read all cards
+21814 [scheduling-1] INFO  com.example.newtask15.AOPClass – CardService.readAll() completed in 1 ms
+21815 [scheduling-1] INFO  c.e.n.services.ManufactureService – Read all manufactures
+21815 [scheduling-1] INFO  com.example.newtask15.AOPClass – ManufactureService.readAll() completed in 0 ms
+21816 [scheduling-1] INFO  com.example.newtask15.AOPClass – ScheduleService.backupFromDatabase() completed in 3 ms
+23805 [scheduling-1] INFO  c.e.newtask15.services.CardService – Read all cards
+23805 [scheduling-1] INFO  com.example.newtask15.AOPClass – CardService.readAll() completed in 1 ms
+23806 [scheduling-1] INFO  c.e.n.services.ManufactureService – Read all manufactures
+23806 [scheduling-1] INFO  com.example.newtask15.AOPClass – ManufactureService.readAll() completed in 0 ms
+23807 [scheduling-1] INFO  com.example.newtask15.AOPClass – ScheduleService.backupFromDatabase() completed in 4 ms
+25800 [scheduling-1] INFO  c.e.newtask15.services.CardService – Read all cards
+25801 [scheduling-1] INFO  com.example.newtask15.AOPClass – CardService.readAll() completed in 1 ms
+25802 [scheduling-1] INFO  c.e.n.services.ManufactureService – Read all manufactures
+25802 [scheduling-1] INFO  com.example.newtask15.AOPClass – ManufactureService.readAll() completed in 0 ms
+25803 [scheduling-1] INFO  com.example.newtask15.AOPClass – ScheduleService.backupFromDatabase() completed in 3 ms
+27802 [scheduling-1] INFO  c.e.newtask15.services.CardService – Read all cards
+27803 [scheduling-1] INFO  com.example.newtask15.AOPClass – CardService.readAll() completed in 1 ms
+27804 [scheduling-1] INFO  c.e.n.services.ManufactureService – Read all manufactures
+27804 [scheduling-1] INFO  com.example.newtask15.AOPClass – ManufactureService.readAll() completed in 0 ms
+27805 [scheduling-1] INFO  com.example.newtask15.AOPClass – ScheduleService.backupFromDatabase() completed in 4 ms
+29820 [scheduling-1] INFO  c.e.newtask15.services.CardService – Read all cards
+29821 [scheduling-1] INFO  com.example.newtask15.AOPClass – CardService.readAll() completed in 1 ms
+29821 [scheduling-1] INFO  c.e.n.services.ManufactureService – Read all manufactures
+29822 [scheduling-1] INFO  com.example.newtask15.AOPClass – ManufactureService.readAll() completed in 1 ms
+29823 [scheduling-1] INFO  com.example.newtask15.AOPClass – ScheduleService.backupFromDatabase() completed in 11 ms
+31801 [scheduling-1] INFO  c.e.newtask15.services.CardService – Read all cards
+31802 [scheduling-1] INFO  com.example.newtask15.AOPClass – CardService.readAll() completed in 1 ms
+31802 [scheduling-1] INFO  c.e.n.services.ManufactureService – Read all manufactures
+31803 [scheduling-1] INFO  com.example.newtask15.AOPClass – ManufactureService.readAll() completed in 1 ms
+31803 [scheduling-1] INFO  com.example.newtask15.AOPClass – ScheduleService.backupFromDatabase() completed in 3 ms
+33813 [scheduling-1] INFO  c.e.newtask15.services.CardService – Read all cards
+33814 [scheduling-1] INFO  com.example.newtask15.AOPClass – CardService.readAll() completed in 1 ms
+33814 [scheduling-1] INFO  c.e.n.services.ManufactureService – Read all manufactures
+33815 [scheduling-1] INFO  com.example.newtask15.AOPClass – ManufactureService.readAll() completed in 1 ms
+33816 [scheduling-1] INFO  com.example.newtask15.AOPClass – ScheduleService.backupFromDatabase() completed in 4 ms
+35807 [scheduling-1] INFO  c.e.newtask15.services.CardService – Read all cards
+35808 [scheduling-1] INFO  com.example.newtask15.AOPClass – CardService.readAll() completed in 1 ms
+35809 [scheduling-1] INFO  c.e.n.services.ManufactureService – Read all manufactures
+35809 [scheduling-1] INFO  com.example.newtask15.AOPClass – ManufactureService.readAll() completed in 0 ms
+35810 [scheduling-1] INFO  com.example.newtask15.AOPClass – ScheduleService.backupFromDatabase() completed in 3 ms
+37814 [scheduling-1] INFO  c.e.newtask15.services.CardService – Read all cards
+37815 [scheduling-1] INFO  com.example.newtask15.AOPClass – CardService.readAll() completed in 1 ms
+37816 [scheduling-1] INFO  c.e.n.services.ManufactureService – Read all manufactures
+37816 [scheduling-1] INFO  com.example.newtask15.AOPClass – ManufactureService.readAll() completed in 0 ms
+37817 [scheduling-1] INFO  com.example.newtask15.AOPClass – ScheduleService.backupFromDatabase() completed in 4 ms
+38124 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Closing JPA EntityManagerFactory for persistence unit 'default'
+38125 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Shutdown initiated...
+38127 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Shutdown completed.
+277  [main] INFO  c.e.newtask15.Newtask15Application – Starting Newtask15Application using Java 17.0.2 on DESKTOP-5E1NSF5 with PID 3504 (C:\Users\Erupb\IdeaProjects\task22\task21\target\classes started by Erupb in C:\Users\Erupb\IdeaProjects\task22\task21)
+279  [main] INFO  c.e.newtask15.Newtask15Application – No active profile set, falling back to 1 default profile: "default"
+491  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+516  [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate – Finished Spring Data repository scanning in 20 ms. Found 2 JPA repository interfaces.
+827  [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat initialized with port(s): 8084 (http)
+831  [main] INFO  o.a.coyote.http11.Http11NioProtocol – Initializing ProtocolHandler ["http-nio-8084"]
+831  [main] INFO  o.a.catalina.core.StandardService – Starting service [Tomcat]
+831  [main] INFO  o.a.catalina.core.StandardEngine – Starting Servlet engine: [Apache Tomcat/9.0.60]
+883  [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] – Initializing Spring embedded WebApplicationContext
+883  [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext – Root WebApplicationContext: initialization completed in 578 ms
+951  [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Starting...
+1023 [main] INFO  com.zaxxer.hikari.HikariDataSource – HikariPool-1 - Start completed.
+1044 [main] INFO  o.h.jpa.internal.util.LogHelper – HHH000204: Processing PersistenceUnitInfo [name: default]
+1066 [main] INFO  org.hibernate.Version – HHH000412: Hibernate ORM core version 5.6.7.Final
+1125 [main] INFO  o.h.annotations.common.Version – HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+1173 [main] INFO  org.hibernate.dialect.Dialect – HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+1423 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator – HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+1427 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean – Initialized JPA EntityManagerFactory for persistence unit 'default'
+1619 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration – spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+1758 [main] INFO  o.a.coyote.http11.Http11NioProtocol – Starting ProtocolHandler ["http-nio-8084"]
+1768 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer – Tomcat started on port(s): 8084 (http) with context path ''
+1774 [main] INFO  c.e.newtask15.Newtask15Application – Started Newtask15Application in 1.695 seconds (JVM running for 1.996)
+1787 [scheduling-1] INFO  c.e.newtask15.services.CardService – Read all cards
+1839 [scheduling-1] INFO  com.example.newtask15.AOPClass – CardService.readAll() completed in 53 ms
+1847 [scheduling-1] INFO  c.e.n.services.ManufactureService – Read all manufactures
+1852 [scheduling-1] INFO  com.example.newtask15.AOPClass – ManufactureService.readAll() completed in 7 ms
+1853 [scheduling-1] INFO  com.example.newtask15.AOPClass – ScheduleService.backupFromDatabase() completed in 80 ms

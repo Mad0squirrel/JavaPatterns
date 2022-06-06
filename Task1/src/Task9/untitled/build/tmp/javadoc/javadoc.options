@@ -1,0 +1,8 @@
+-classpath 'E:\\Intelij IDEA projects\\Задачи по Джаве 4 сем\\JavaTasks4\\Task1\\src\\Task9\\untitled\\build\\classes\\java\\main;E:\\Intelij IDEA projects\\Задачи по Джаве 4 сем\\JavaTasks4\\Task1\\src\\Task9\\untitled\\build\\resources\\main'
+-d 'E:\\Intelij IDEA projects\\Задачи по Джаве 4 сем\\JavaTasks4\\Task1\\src\\Task9\\untitled\\build\\docs\\javadoc'
+-doctitle 'untitled 1.0-SNAPSHOT API'
+-encoding 'UTF-8'
+-notimestamp 
+-quiet 
+-windowtitle 'untitled 1.0-SNAPSHOT API'
+'E:\\Intelij IDEA projects\\Задачи по Джаве 4 сем\\JavaTasks4\\Task1\\src\\Task9\\untitled\\src\\main\\java\\com\\Main.java'
